@@ -5,12 +5,12 @@
       <![CDATA[Home Page is Displayed]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-06-26T08:36:11 IST" name="Suite" finished-at="2023-06-26T08:36:26 IST" duration-ms="15043">
+  <suite started-at="2023-06-26T08:43:44 IST" name="Suite" finished-at="2023-06-26T08:43:57 IST" duration-ms="13378">
     <groups>
     </groups>
-    <test started-at="2023-06-26T08:36:11 IST" name="Test" finished-at="2023-06-26T08:36:26 IST" duration-ms="15043">
+    <test started-at="2023-06-26T08:43:44 IST" name="Test" finished-at="2023-06-26T08:43:57 IST" duration-ms="13378">
       <class name="script.ValidLogin">
-        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:script.ValidLogin@78691363]" started-at="2023-06-26T08:36:11 IST" name="preCondition" finished-at="2023-06-26T08:36:22 IST" duration-ms="11772" status="PASS">
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:script.ValidLogin@78691363]" started-at="2023-06-26T08:43:44 IST" name="preCondition" finished-at="2023-06-26T08:43:52 IST" duration-ms="8359" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -36,14 +36,14 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method signature="testValidLogin()[pri:1, instance:script.ValidLogin@78691363]" started-at="2023-06-26T08:36:22 IST" name="testValidLogin" finished-at="2023-06-26T08:36:25 IST" duration-ms="3002" status="PASS">
+        <test-method signature="testValidLogin()[pri:1, instance:script.ValidLogin@78691363]" started-at="2023-06-26T08:43:52 IST" name="testValidLogin" finished-at="2023-06-26T08:43:57 IST" duration-ms="4772" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Home Page is Displayed]]>
             </line>
           </reporter-output>
         </test-method> <!-- testValidLogin -->
-        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.ValidLogin@78691363]" started-at="2023-06-26T08:36:25 IST" name="postCondition" finished-at="2023-06-26T08:36:26 IST" duration-ms="207" status="PASS">
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:script.ValidLogin@78691363]" started-at="2023-06-26T08:43:57 IST" name="postCondition" finished-at="2023-06-26T08:43:57 IST" duration-ms="194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
